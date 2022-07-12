@@ -17,6 +17,7 @@ public class Main {
         // TODO code application logic here
         
         System.out.println("This is a github test");
+        System.out.println("This is test number 2");
         
     }
     
